@@ -1,0 +1,3 @@
+This is a readme file that outlines the structure of the project, how to navigate the files, and instructions for future collaborators on how to contribute.
+
+/Generative_AI_Research /Literature_Review - journal_articles.pdf - books.pdf - newspaper.pdf /Quantitative_Analysis - survey_data.csv - analysis_code.py - analysis_code_2.py /Qualitative_Analysis - interview_transcripts.txt - interview_protocols.pdf - interview_visualisation.png - consent_forms.pdf - interview_insights_report.docx /Drafts_Reports - proposal_draft.docx - final_report.pdf - conference_paper.docx /Additional_Materials - information_sheet.pdf - photo.jpg - video.mp4
